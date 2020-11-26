@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
+
+    std::cout << "新規ブランチでこの行を追加\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
